@@ -6,8 +6,14 @@ body {
 
 #exibicao-palavra{
     font-size: 3em;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
+    margin-top: -20px;
  
+}
+
+h1{
+    margin-top: -20px;
+    margin-bottom: -15px;
 }
 
 #botao-reiniciar{
@@ -18,11 +24,13 @@ body {
     padding: 10px 20px;
     border-radius: 5px;
     cursor: pointer;
+    margin: auto;
 }
 
 #botao-reiniciar:hover {
 
     background-color:#3c823e ;
+
 
 }
 
@@ -36,3 +44,5 @@ body {
 #mensagem{
     display: none;
 }
+
+
